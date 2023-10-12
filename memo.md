@@ -15,4 +15,7 @@ https://www.udemy.com/course/nuxtjs-the-complete-guide/learn/lecture/37140266#ov
 
 ## 10/12(木)
 8. 新規プロジェクトを作成しよう（続き）
-
+9. ディレクトリ構造を確認しよう
+10. デフォルトページのコードを確認しよう
+11. Hello Worldプログラムを実行しよう
+12. ホットリロードについて知ろう
