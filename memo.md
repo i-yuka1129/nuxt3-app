@@ -19,3 +19,6 @@ https://www.udemy.com/course/nuxtjs-the-complete-guide/learn/lecture/37140266#ov
 10. デフォルトページのコードを確認しよう
 11. Hello Worldプログラムを実行しよう
 12. ホットリロードについて知ろう
+
+## 10/16(月)
+13. マスタッシュ構文を使おう
