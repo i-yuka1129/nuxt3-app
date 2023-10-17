@@ -22,3 +22,7 @@ https://www.udemy.com/course/nuxtjs-the-complete-guide/learn/lecture/37140266#ov
 
 ## 10/16(月)
 13. マスタッシュ構文を使おう
+
+## 10/17(火)
+14. ページ遷移をしよう①
+メモ：``` yarn dev -o ```だとPowerShellでエラーが発生し、設定に時間がかかるため、今後は``` npm run dev ```でサーバーを起動するようにする
