@@ -29,4 +29,4 @@ https://www.udemy.com/course/nuxtjs-the-complete-guide/learn/lecture/37140266#ov
 
 ## 10/18(水)
 15. ページ遷移をしよう②
-
+16. エラーを自力で解決できるようになろう
