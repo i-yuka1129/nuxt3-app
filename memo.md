@@ -26,3 +26,7 @@ https://www.udemy.com/course/nuxtjs-the-complete-guide/learn/lecture/37140266#ov
 ## 10/17(火)
 14. ページ遷移をしよう①
 メモ：``` yarn dev -o ```だとPowerShellでエラーが発生し、設定に時間がかかるため、今後は``` npm run dev ```でサーバーを起動するようにする
+
+## 10/18(水)
+15. ページ遷移をしよう②
+
